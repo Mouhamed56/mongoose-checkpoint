@@ -1,0 +1,14 @@
+{
+  "name": "mongoose-checkpoint",
+  "version": "1.0.0",
+  "description": "Checkpoint Mongoose - CRUD complet",
+  "main": "myApp.js",
+  "scripts": {
+    "start": "node myApp.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongodb": "^6.3.0",
+    "mongoose": "^7.6.3"
+  }
+}
